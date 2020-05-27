@@ -1,2 +1,2 @@
-# java14
-learn java9 to java14
+# Java9到Java14的主要特性样例
+学习Java8之后，各Java版本的主要特性，项目使用的版本为jdk14
